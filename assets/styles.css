@@ -59,4 +59,51 @@ nav a:hover {
     background-color: #540031;
     box-shadow: 5px 5px 10px 5px#000000;
   }
+ Footer{
+    position: absolute;
+    background-image: linear-gradient(to right, #620A9D, #540031, #1A022A);
+    box-shadow: #000000 10px 10px 10px 10px;
+    width: 100%;
+    z-index: 999;
+    border-style: groove;
+    border-color: #0C052B;
+    color: white;
+    text-indent: 2em;
+
+    }
  
+    .content-box{
+        margin-bottom: 50px;
+        text-indent: 2em;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        max-width: 800px;
+        margin: 8px auto;
+        overflow: hidden;
+        background-color: floralwhite;
+        border-radius: 10px 10px 10px 10px;
+        box-shadow: #2A1780 20px 20px 20px 20px;
+    }
+      
+      .content-box img {
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+      }
+      
+      .content {
+        flex: 1;
+        padding: 20px;
+      }
+      
+      .content h2 {
+        margin: 0;
+        font-size: 24px;
+      }
+      
+      .content p {
+        margin: 20px 0;
+        font-size: 16px;
+      }
+    
