@@ -10,15 +10,22 @@
 
 body{
     font-family: Arial, Verdana, Tahoma, Trebuchet, Times, Georgia, Garamond, Courier;
-    background-color: #0C052B;
+    background: linear-gradient(to bottom,#2F15A2,#2A1780,#140949, #0C052B);
+    
 }
+.about-me{
+  position: relative;
+  float: left;
+  margin-top: -730px;
+  margin-left: 610px;
 
+}
 .navbubbles {
     float: right;
   }
 
   header{
-    background-color: #620A9D;
+    background: linear-gradient(to right,#620A9D,#2C0447);
     border-radius: 0px 0px 10px 10px;
     box-shadow: 0px 10px 10px 0px ;
      }
@@ -27,13 +34,15 @@ body{
     color: #1A022A;
     font-size: 4em;
     direction: rtl;
-    text-indent: .2em;
+    text-indent: .5em;
     margin: 0px 0px 30px 0px;
+    
   }
 
   header nav{
     margin: 0px 5px 15px 15px;
   }
+
  nav a{
     display: inline block;
     padding: 10px 20px;
@@ -45,6 +54,7 @@ body{
     font-weight: bold;
     margin: 15px;
 }
+
 nav a:hover {
     background-color: #540031;
     box-shadow: 5px 5px 10px 5px#000000;
