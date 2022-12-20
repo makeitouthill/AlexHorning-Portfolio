@@ -11,7 +11,7 @@ How to use:
 What you need:
 Browser
 
-How to run the program Visit URL:https://makeitouthill.github.io/first-hw/ Navigate around using scroll or navagation bubbles
+How to run the program Visit URL:https://makeitouthill.github.io/AlexHorning-Portfolio/ Navigate around using scroll or navagation bubbles
 
 Authors Alex Horning Alex.Horning.54@gmail.com
 
